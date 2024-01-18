@@ -5,13 +5,13 @@
 ## Счётчик
 
 ### Проект выглядит следующим образом
-<center>
+
 <img
   src="https://raw.githubusercontent.com/skarb-by/images/main/help/screenshot/counter.png"
   alt=""
   title=""
-  >
-</center>
+  style="display: inline-block; margin: 0 auto; text-align: center;">
+
 <hr/>
 
 ## Модальное окно
