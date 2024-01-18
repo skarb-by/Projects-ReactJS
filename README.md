@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Projects+ReactJS)](https://github.com/skarb-by/Projects-ReactJS)
 
-### Счётчик
+## Счётчик
 
-#### Проект выглядит следующим образом
+### Проект выглядит следующим образом
 
 ----
 
