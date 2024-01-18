@@ -1,4 +1,4 @@
-import React, { useState} from 'react';
+import React, { useState } from 'react';
 import './index.scss';
 
 const questions = [
@@ -23,20 +23,17 @@ const questions = [
   },
 ];
 
-function Result({correct}) {
-
-
+function Result({ correct }) {
 
   const onClickReset = () => {
-
-   window.location.reload();
+    window.location.reload();
   }
   return (
+
     <div className="result">
       <img src="https://cdn-icons-png.flaticon.com/512/2278/2278992.png" alt='' />
       <h2>Вы отгадали {correct} ответа из {questions.length}</h2>
       <button onClick={onClickReset}>Попробовать снова</button>
-     
     </div>
   );
 }
@@ -61,11 +58,9 @@ function Game({ step, question, onClickVariant }) {
 }
 
 function App() {
+
   const [step, setStep] = useState(0);
-
   const [correct, setCorrect] = useState(0);
-
-
   const question = questions[step];
 
   const onClickVariant = (index) => {
@@ -76,16 +71,11 @@ function App() {
     }
   }
 
-
-
   return (
     <div className="App">
       {
-        step !== questions.length ? (<Game step={step} question={question} onClickVariant={onClickVariant} />) : (<Result correct={correct}/>)
+        step !== questions.length ? (<Game step={step} question={question} onClickVariant={onClickVariant} />) : (<Result correct={correct} />)
       }
-
-
-
     </div>
   );
 }

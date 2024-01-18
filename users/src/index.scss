@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@700;900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:wght@700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap");
 
 body {
   margin: 0;
@@ -10,7 +10,7 @@ body {
 
 * {
   box-sizing: border-box;
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
   outline: none;
 }
 
@@ -85,7 +85,7 @@ body {
     h3 {
       margin: 0;
       font-weight: 900;
-      font-family: 'Merriweather', serif;
+      font-family: "Merriweather", serif;
       margin-left: 15px;
       margin-top: 5px;
       margin-left: 0;
@@ -114,7 +114,7 @@ body {
 }
 
 .send-invite-btn {
-  background-color: rgb(251, 80, 0);
+  background-color: black;
   padding: 16px 15px;
   border-radius: 15px;
   font-size: 16px;
@@ -122,12 +122,12 @@ body {
   width: 100%;
   border: 0;
   outline: none;
-  box-shadow: 0 7px 10px rgba(251, 80, 0, 0.4);
+  box-shadow: 0 7px 10px rgb(126, 126, 126);
   cursor: pointer;
   transition: all 0.1s ease-in-out;
 
   &:hover {
-    background-color: rgb(255, 97, 24);
+    background-color: rgb(57, 57, 57);
   }
 
   &:active {

@@ -14,8 +14,8 @@ function App() {
   return (
     <div className="App">
       <div>
-        <h2>Счетчик:</h2>
-        <h1>{count}</h1>
+        <h3>Счетчик:</h3>
+        <h2>{count}</h2>
         <button onClick={onCliclMinus} className="minus">- Минус</button>
         <button onClick={onCliclPlus} className="plus">Плюс +</button>
       </div>

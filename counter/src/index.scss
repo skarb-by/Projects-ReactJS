@@ -1,10 +1,11 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu',
-    'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #edf6f9;
+  background-color: white;
 }
 
 .App {
@@ -14,24 +15,24 @@ body {
   height: 100vh;
   text-align: center;
 
-  h1 {
-    color: #000;
+  h2 {
+    color: black;
     font-size: 7rem;
     margin: 0;
     margin-bottom: 20px;
 
     &.plus {
-      color: #2a9d8f;
+      color: green;
     }
     &.minus {
-      color: #e63946;
+      color: red;
     }
   }
 
-  h2 {
+  h3 {
     font-size: 2rem;
     margin: 0;
-    color: #556581;
+    color: grey;
   }
 
   button {
@@ -46,17 +47,17 @@ body {
     transition: all 0.05s ease-in-out;
 
     &.minus {
-      background-color: #e63946;
+      background-color: red;
       color: #fff;
-      box-shadow: 0 4px 0 darken(#e63946, 10%);
-      border: 1px solid darken(#e63946, 15%);
+      box-shadow: 0 4px 0 darken(#862029, 10%);
+      border: 1px solid darken(#862029, 15%);
     }
 
     &.plus {
-      background-color: #2a9d8f;
+      background-color: green;
       color: #fff;
-      box-shadow: 0 4px 0 darken(#2a9d8f, 10%);
-      border: 1px solid darken(#2a9d8f, 15%);
+      box-shadow: 0 4px 0 darken(#1e6b18, 10%);
+      border: 1px solid darken(#1e6b18, 15%);
     }
 
     &:hover {
