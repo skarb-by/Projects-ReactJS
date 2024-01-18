@@ -6,8 +6,6 @@
 
 ### Проект выглядит следующим образом
 
-----
-
 <img
   src="https://raw.githubusercontent.com/skarb-by/images/main/help/screenshot/counter.png"
   alt=""
@@ -18,11 +16,7 @@
 
 ## Модальное окно
 
----
-
 ### Проект выглядит следующим образом
-
----
 
 <img
   src="https://raw.githubusercontent.com/skarb-by/images/main/help/screenshot/modal1.png"
@@ -39,11 +33,7 @@
 
 ## Опросник
 
----
-
 ### Проект выглядит следующим образом
-
----
 
 <img
   src="https://raw.githubusercontent.com/skarb-by/images/main/help/screenshot/quiz1.png"
@@ -60,11 +50,7 @@
 
 ## Список гостей (пользователей)
 
----
-
 ### Проект выглядит следующим образом
-
----
 
 <img
   src="https://raw.githubusercontent.com/skarb-by/images/main/help/screenshot/users1.png"
