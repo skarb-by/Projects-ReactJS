@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Projects+ReactJS)](https://github.com/skarb-by/Projects-ReactJS)
 
-## Счётчик
+## Счётчик [пример работы](https://github.com/skarb-by/Projects-ReactJS/tree/main/counter).
 
 ### Проект выглядит следующим образом
 
@@ -14,7 +14,7 @@
 
 <hr/>
 
-## Модальное окно
+## Модальное окно [пример работы](https://github.com/skarb-by/Projects-ReactJS/tree/main/modal).
 
 ### Проект выглядит следующим образом
 
@@ -31,7 +31,7 @@
 
 <hr/>
 
-## Опросник
+## Опросник [пример работы](https://github.com/skarb-by/Projects-ReactJS/tree/main/quiz).
 
 ### Проект выглядит следующим образом
 
@@ -48,7 +48,7 @@
 
   <hr/>
 
-## Список гостей (пользователей)
+## Список гостей (пользователей) [пример работы](https://github.com/skarb-by/Projects-ReactJS/tree/main/users).
 
 ### Проект выглядит следующим образом
 
