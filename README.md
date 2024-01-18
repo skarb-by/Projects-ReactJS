@@ -10,7 +10,7 @@
   src="https://raw.githubusercontent.com/skarb-by/images/main/help/screenshot/counter.png"
   alt=""
   title=""
-  style="display: inline-block; margin: 0 auto;">
+  style="display: block; margin: 10px auto 20px;">
 
 <hr/>
 
