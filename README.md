@@ -69,3 +69,20 @@
   style="display: inline-block; margin: 0 auto;">
 
   <hr/>
+
+## Конвертер валют [пример работы](https://github.com/skarb-by/Projects-ReactJS/tree/main/currency-converter).
+
+### Проект выглядит следующим образом
+
+<img
+  src="https://raw.githubusercontent.com/skarb-by/images/main/help/screenshot/currency-converter1.png"
+  alt=""
+  title=""
+  style="display: inline-block; margin: 0 auto;">
+<img
+  src="https://raw.githubusercontent.com/skarb-by/images/main/help/screenshot/currency-converter2.png"
+  alt=""
+  title=""
+  style="display: inline-block; margin: 0 auto;">
+
+  <hr/>
