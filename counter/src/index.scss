@@ -27,6 +27,10 @@ body {
     &.minus {
       color: red;
     }
+    &.reset {
+      color: grey;
+    }
+   
   }
 
   h3 {
@@ -58,6 +62,13 @@ body {
       color: #fff;
       box-shadow: 0 4px 0 darken(#1e6b18, 10%);
       border: 1px solid darken(#1e6b18, 15%);
+    }
+
+    &.reset {
+      background-color: grey;
+      color: #fff;
+      box-shadow: 0 4px 0 darken(grey, 10%);
+      border: 1px solid darken(grey, 15%);
     }
 
     &:hover {

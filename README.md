@@ -2,7 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Projects+ReactJS)](https://github.com/skarb-by/Projects-ReactJS)
 
-## Счётчик [пример работы](https://github.com/skarb-by/Projects-ReactJS/tree/main/counter).
+## Счётчик 
+
+### [пример работы](https://github.com/skarb-by/Projects-ReactJS/tree/main/counter).
 
 ### Проект выглядит следующим образом
 
@@ -14,7 +16,9 @@
 
 <hr/>
 
-## Модальное окно [пример работы](https://github.com/skarb-by/Projects-ReactJS/tree/main/modal).
+## Модальное окно 
+
+### [пример работы](https://github.com/skarb-by/Projects-ReactJS/tree/main/modal).
 
 ### Проект выглядит следующим образом
 
@@ -31,7 +35,9 @@
 
 <hr/>
 
-## Опросник [пример работы](https://github.com/skarb-by/Projects-ReactJS/tree/main/quiz).
+## Опросник 
+
+### [пример работы](https://github.com/skarb-by/Projects-ReactJS/tree/main/quiz).
 
 ### Проект выглядит следующим образом
 
@@ -48,7 +54,9 @@
 
   <hr/>
 
-## Список гостей (пользователей) [пример работы](https://github.com/skarb-by/Projects-ReactJS/tree/main/users).
+## Список гостей (пользователей) 
+
+### [пример работы](https://github.com/skarb-by/Projects-ReactJS/tree/main/users).
 
 ### Проект выглядит следующим образом
 
@@ -70,7 +78,9 @@
 
   <hr/>
 
-## Конвертер валют [пример работы](https://github.com/skarb-by/Projects-ReactJS/tree/main/currency-converter).
+## Конвертер валют 
+
+### [пример работы](https://github.com/skarb-by/Projects-ReactJS/tree/main/currency-converter).
 
 ### Проект выглядит следующим образом
 
@@ -81,6 +91,25 @@
   style="display: inline-block; margin: 0 auto;">
 <img
   src="https://raw.githubusercontent.com/skarb-by/images/main/help/screenshot/currency-converter2.png"
+  alt=""
+  title=""
+  style="display: inline-block; margin: 0 auto;">
+
+  <hr/>
+
+## Коллекция фотографий 
+
+### [пример работы](https://github.com/skarb-by/Projects-ReactJS/tree/main/photos).
+
+### Проект выглядит следующим образом
+
+<img
+  src="https://raw.githubusercontent.com/skarb-by/images/main/help/screenshot/photos.png"
+  alt=""
+  title=""
+  style="display: inline-block; margin: 0 auto;">
+<img
+  src="https://raw.githubusercontent.com/skarb-by/images/main/help/screenshot/photos.png"
   alt=""
   title=""
   style="display: inline-block; margin: 0 auto;">
